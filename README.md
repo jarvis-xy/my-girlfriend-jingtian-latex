@@ -16,6 +16,8 @@ xelatex -interaction=nonstopmode -halt-on-error -output-directory=build main.tex
 
 第二篇《回信》沿用同样的 5 x 8 英寸版式，源文件为 `second.tex`，正文为 `second.md`，机械转换后的段落文件为 `second-body.tex`。
 
+成品 PDF：`second-reply-jarvis11x.pdf`。
+
 使用 XeLaTeX 编译：
 
 ```bash
